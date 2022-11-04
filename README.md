@@ -1,7 +1,7 @@
-- 👋 Hi, I’m kishore
-- 👀 I’m interested in doing open source projects to gain knowledge of real life tech issues
-- 🌱 I’m currently learning java and devops
-- 💞️ I’m looking to collaborate on open source projects
+- 👋 Hi, I’m Kishore
+- 👀 I’m interested in doing open source projects to gain knowledge of real life tech issues and learning other technologies
+- 🌱 I’m currently learning AWS and tech stack which i know/familiar with are Java, Python, Sql, SpringBoot, Microservices, JDBC and Angular.
+- 💞️ I’m looking for projects where i can put my knowledge to use and grow in my career
 - 📫 How to reach me -> kishore20081996@gmail.com
 
 <!---
